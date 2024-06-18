@@ -1,9 +1,8 @@
 import React from 'react'
-import AccountSettings from './account-settings';
 
 const page = () => {
   return (
-    <AccountSettings />
+    <div></div>
   )
 }
 
