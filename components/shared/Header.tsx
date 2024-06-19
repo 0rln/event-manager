@@ -29,9 +29,6 @@ const Header = () => {
 					<nav className='md:flex-between hidden w-full max-w-xs'>
 						<NavItems />
 					</nav>
-					<Button asChild className='rounded-full' size='lg'>
-						<Link href='/settings'>Settings</Link>
-					</Button>
 				</SignedIn>
 
 				<div className='flex w-32 justify-end gap-3'>
