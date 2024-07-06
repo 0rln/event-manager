@@ -147,3 +147,31 @@ export type SearchParamProps = {
 	params: { id: string };
 	searchParams: { [key: string]: string | string[] | undefined };
 };
+
+
+
+
+
+
+
+console.log('Hey there')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
